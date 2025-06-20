@@ -1,0 +1,3 @@
+Hello world!
+Hello Ruby world.
+Programming in Ruby is fun. Ruby is elegant.
